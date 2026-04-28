@@ -27,23 +27,6 @@ An AI-powered Streamlit web application that generates and narrates creative sto
 - python-dotenv (Environment variables)  
 
 ---
-# 📁 Story Generator Project Structure
-
-Story Generator/
-│
-├── venv/                     # Virtual environment (ignore in GitHub)
-│
-├── app.py                    # Streamlit main app
-├── story_generator.py        # AI story + narration logic
-├── .env                      # API keys (DO NOT PUSH TO GITHUB)
-├── requirements.txt         # Dependencies
-├── README.md                # Project documentation
-│
-├── assets/                  # (optional) images, samples
-│
-└── __pycache__/             # Python cache (auto-generated, ignore)
-
----
 
 ##  How It Works
 
