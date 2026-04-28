@@ -46,5 +46,3 @@ An AI-powered Streamlit web application that generates and narrates creative sto
 git clone https://github.com/chabdullah7/story-generator.git
 cd story-generator
 
----
-
