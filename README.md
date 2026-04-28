@@ -60,8 +60,3 @@ cd story-generator
 
 ---
 
-# Author
-
-Abdullah
-
-AI Engineer
