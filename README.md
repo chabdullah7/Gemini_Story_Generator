@@ -57,3 +57,11 @@ Story Generator/
 ```bash
 git clone https://github.com/chabdullah7/story-generator.git
 cd story-generator
+
+---
+
+# Author
+
+Abdullah
+
+AI Engineer
