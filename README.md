@@ -27,6 +27,7 @@ An AI-powered Streamlit web application that generates and narrates creative sto
 - python-dotenv (Environment variables)  
 
 ---
+# 📁 Story Generator Project Structure
 
 Story Generator/
 │
