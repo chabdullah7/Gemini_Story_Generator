@@ -28,15 +28,19 @@ An AI-powered Streamlit web application that generates and narrates creative sto
 
 ---
 
-##  Project Structure
-
 Story Generator/
 │
-├── app.py                  # Streamlit UI
-├── story_generator.py      # AI story + narration logic
-├── .env                    # API key storage
-├── requirements.txt        # Dependencies
-├── venv/                   # Virtual environment (not pushed to GitHub)
+├── venv/                     # Virtual environment (ignore in GitHub)
+│
+├── app.py                    # Streamlit main app
+├── story_generator.py        # AI story + narration logic
+├── .env                      # API keys (DO NOT PUSH TO GITHUB)
+├── requirements.txt         # Dependencies
+├── README.md                # Project documentation
+│
+├── assets/                  # (optional) images, samples
+│
+└── __pycache__/             # Python cache (auto-generated, ignore)
 
 ---
 
